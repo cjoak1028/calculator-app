@@ -4,7 +4,7 @@
   "description": "calculator app challenge from frontend mentors",
   "main": "index.js",
   "scripts": {
-    "watch:sass": "node-sass -w app/sass/main.scss app/css/style.css",
+    "watch:sass": "node-sass app/sass/main.scss app/css/style.css -w",
     "devserver": "live-server",
     "start": "npm-run-all --parallel devserver watch:sass"
   },

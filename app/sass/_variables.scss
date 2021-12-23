@@ -1,0 +1,81 @@
+// *** COLORS ***
+
+// THEME-1
+
+// BACKGROUNDS
+$color-background-main-1: hsl(222, 26%, 31%);
+$color-background-toggle-1: hsl(223, 31%, 20%);
+$color-background-keypad-1: hsl(223, 31%, 20%);
+$color-background-screen-1: hsl(224, 36%, 15%);
+
+// KEYS
+$color-key-background-1-blue: hsl(225, 21%, 49%);
+$color-key-shadow-1-blue: hsl(224, 28%, 35%);
+
+$color-key-background-1-red: hsl(6, 63%, 50%);
+$color-key-shadow-1-red:  hsl(6, 70%, 34%);
+
+$color-key-background-1-orange: hsl(30, 25%, 89%);
+$color-key-shadow-1-orange: hsl(28, 16%, 65%);
+
+$color-toggle-1: hsl(6, 63%, 50%);
+
+// TEXT
+$color-text-1-blue: hsl(221, 14%, 31%);
+$color-text-1-white: hsl(0, 0, 100%);
+
+
+// THEME-2
+
+// BACKGROUNDS
+$color-background-main-2: hsl(0, 0%, 90%);
+$color-background-toggle-2: hsl(0, 5%, 81%);
+$color-background-keypad-2: hsl(0, 5%, 81%);
+$color-background-screen-2: hsl(0, 0%, 93%);
+
+// KEYS
+$color-key-background-2-cyan: hsl(185, 42%, 37%);
+$color-key-shadow-2-cyan: hsl(185, 58%, 25%);
+
+$color-key-background-2-orange: hsl(25, 98%, 40%);
+$color-key-shadow-2-orange-dark:  hsl(25, 99%, 27%);
+
+$color-key-background-2-yellow: hsl(45, 7%, 89%);
+$color-key-shadow-2-orange-gray: hsl(35, 11%, 61%);
+
+$color-toggle-2: hsl(25, 98%, 40%);
+
+// TEXT
+$color-text-2-yellow: hsl(60, 10%, 19%);
+$color-text-2-white: hsl(0, 0, 100%);
+
+
+// THEME-3
+
+// BACKGROUNDS
+$color-background-main-3: hsl(268, 75%, 9%);
+$color-background-toggle-3: hsl(268, 71%, 12%);
+$color-background-keypad-3: hsl(268, 71%, 12%);
+$color-background-screen-3: hsl(268, 71%, 12%);
+
+// KEYS
+$color-key-background-3-violet: hsl(281, 89%, 26%);
+$color-key-shadow-3-magenta: hsl(285, 91%, 52%);
+
+$color-key-background-3-cyan: hsl(176, 100%, 44%);
+$color-key-shadow-3-cyan:  hsl(177, 92%, 70%);
+
+$color-key-background-3-violet-dark: hsl(268, 47%, 21%);
+$color-key-shadow-3-magenta-dark: hsl(290, 70%, 36%);
+
+$color-toggle-3: hsl(176, 100%, 44%);
+
+// TEXT
+$color-text-3-yellow: hsl(52, 100%, 62%);
+$color-text-3-blue: hsl(198, 20%, 13%);
+$color-text-3-white: hsl(0, 0, 100%);
+
+
+// *** FONT ***
+$font-primary: 'Spartan', sans-serif;
+$default-font-size: 3.2rem;
